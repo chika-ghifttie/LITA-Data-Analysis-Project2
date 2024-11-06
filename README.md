@@ -220,3 +220,63 @@ This provides insights into customer behavior, trends over time, and cancellatio
 
 ## Subscription Trends Dashboard:
 
+To visualize trends in subscriptions, cancellations, and renewals over time, and to track the performance of subscription offerings with detailed metrics.
+
+#### Key Visualizations
+
+- Card Visualizations:
+
+   - Total Subscribers: Displays the total number of active subscriptions which is 20.
+   - Subscription Length: Shows the average subscription length across customers, which is 0.02 years.
+   - Subscription Growth Rate: Represents the subscription growth rate, which is a high value of 15,000%, indicating a substantial increase in subscriptions over the period.
+
+- Slicer Filters:
+
+   - Subscription Type: Allows for the analysis of subscription trends based on different types of subscriptions.
+   - Cancellation: Helps filter the data by whether subscriptions were canceled or not.
+   - Year/Month: Provides flexibility to analyze trends on a yearly or monthly basis.
+
+- Stacked Column Chart:
+
+   - Annual Subscription & Revenue: Displays the annual subscription and revenue trends over time, This chart accounts for both start and end dates of subscriptions.
+
+- Bar Chart Visualization:
+
+   - Total Subscription by Cancellation Status: This bar chart shows the total number of subscriptions based on their cancellation status. The chart categorizes subscriptions into two groups: True (canceled) and False (not canceled).
+The count of subscriptions for the False category is higher than True, indicating more active subscriptions.
+
+- Area Chart Visualization:
+
+   - Total Subscription by Start and End Date: The area chart helps visualize the volume of subscriptions over time based on their start and end dates. This chart helps identify subscription growth and churn over different periods.
+     
+## Insights
+
+### Total Subscribers
+
+  - The Total Subscribers card visual helps track the overall number of active subscriptions, providing a clear indicator of customer engagement. With 20 subscribers in this case, you can monitor if this number increases or decreases over time.
+
+### Subscription Length:
+
+  - The Subscription Length metric gives insight into how long customers are staying with the service, with a value of 0.02 years indicating a short average subscription length. This may prompt further analysis into customer retention strategies or subscription offerings.
+
+### Subscription Growth Rate:
+
+  - The Subscription Growth Rate of 15,000% indicates an extremely rapid increase in subscriptions. This is a noteworthy metric and may suggest a successful marketing campaign, promotion, or external factors that significantly boosted subscription numbers.
+
+### Annual Subscription & Revenue:
+
+  - The Annual Subscription & Revenue stacked chart provides a breakdown of annual subscription data and revenue. The chart includes both start and end dates, offering a more comprehensive view of how subscriptions are performing over the year, with blue and orange colors differentiating subscription and revenue trends.
+
+### Subscription Cancellations:
+
+  - The Total Subscription by Cancellation bar chart gives a clear view of how many subscriptions were canceled (True) versus still active (False). With more False subscriptions, you can conclude that most customers are staying subscribed, but continued tracking can help improve retention strategies.
+
+### Total Subscription by Start and End Date:
+
+  - The Area Chart allows for a comprehensive view of how subscriptions are distributed across different start and end dates. This helps identify growth or churn during specific periods.
+
+
+
+![Subb](https://github.com/user-attachments/assets/febdf630-5cbc-4dda-affc-638b2512fb02)
+
+
